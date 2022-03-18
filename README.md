@@ -1,7 +1,7 @@
-Ad Hoc homework problems
+Attribute homework problems
 ========================
 
-Each directory in the [Ad Hoc Homework GitHub repository](https://github.com/adhocteam/homework) contains a different homework problem, seven in total. Please complete one problem to start off, we will ask for more if your first submission passes blinded review. Make sure to read the README in each directory, it will give you important information on completing each problem.
+Each directory in the [Attribute Homework GitHub repository](https://github.com/getattribute/homework) contains a different homework problem, seven in total. Please complete one problem to start off, we will ask for more if your first submission passes blinded review. Make sure to read the README in each directory, it will give you important information on completing each problem.
 
 This is an open-book test, so Google away, but please don't copy your work from pre-existing solutions you may find or ask
 others to help you complete the exercises. Solutions should be able to be run on a UNIX command line (Linux/Mac). We're quite familiar with Go, Ruby, Javascript, and Python, but if your submission is in some other language (which is OK), please let us know how we can set up our environment to run your code.
@@ -13,22 +13,22 @@ Well, that depends on the position you're applying for! Here are the assignment 
 
 ### Front-end Engineer
 - Assignment set: hhbuilder and fetch (2 total)
-- Start with [hhbuilder](https://github.com/adhocteam/homework/tree/master/hhbuilder) or [fetch](https://github.com/adhocteam/homework/tree/master/fetch)
+- Start with [hhbuilder](https://github.com/getattribute/homework/tree/master/hhbuilder) or [fetch](https://github.com/getattribute/homework/tree/master/fetch)
 
 ### Full-Stack Engineer
 - Assignment set: hhbuilder, fetch, noclist, proto, SLCSP (3 total)
-- Start with [hhbuilder](https://github.com/adhocteam/homework/tree/master/hhbuilder) or [slcsp](https://github.com/adhocteam/homework/tree/master/slcsp)
+- Start with [hhbuilder](https://github.com/getattribute/homework/tree/master/hhbuilder) or [slcsp](https://github.com/getattribute/homework/tree/master/slcsp)
 
 ### Back-end Engineer
 - Assignment set: fetch, noclist, proto, SLCSP (2 total)
-- Start with [slcsp](https://github.com/adhocteam/homework/tree/master/slcsp) or [proto](https://github.com/adhocteam/homework/tree/master/proto)
+- Start with [slcsp](https://github.com/getattribute/homework/tree/master/slcsp) or [proto](https://github.com/getattribute/homework/tree/master/proto)
 
 ### Infrastructure Engineer / DevOps Engineer / Site Reliability Engineer
 - Assignment set: provision and either proto or noclist (2 total)
-- Start with [provision](https://github.com/adhocteam/homework/tree/master/provision)
+- Start with [provision](https://github.com/getattribute/homework/tree/master/provision)
 
 ### UX Design
-- Complete [ux-design](https://github.com/adhocteam/homework/tree/master/ux-design)
+- Complete [ux-design](https://github.com/getattribute/homework/tree/master/ux-design)
 
 ### Staff Software Engineer
 - Assignment set: slow_widgets and 2 technical assignments (3 total)
@@ -60,7 +60,7 @@ submission in the COMMENTS as well. Then visit our
 for an account, and follow the instructions to upload your homework there!
 
 In addition to submitting the homework, make sure to complete the application
-for the job you're applying for on [our jobs page](https://www.adhocteam.us/join).
+for the job you're applying for on [our jobs page](https://www.getattribute.us/join).
 
 Evaluation process
 ------------------
