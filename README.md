@@ -52,21 +52,9 @@ Submitting your completed homework
 
 To submit your homework:
 
-<<<<<<< HEAD
-In addition to submitting the homework, make sure to complete the application
-for the job you're applying for on [our jobs page](https://www.getattribute.us/join).
-
-Evaluation process
-------------------
-
-When we receive your homework, we'll assign it a random number, so that our team
-does not know whose submission they are reviewing. Your homework will be
-reviewed by multiple engineers on our team.
-=======
 - Fork this repo
 - Make a new branch with your name, and push your changes to it
 - Submit a pull request
->>>>>>> 5edf7911354263a2b74384c15591348f92c7f120
 
 A quick tip
 -----------
